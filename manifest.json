@@ -1,8 +1,7 @@
 {
 
-    "name": "Your Awesome PWA",
-    "short_name": "Awesome PWA",
-    "description": "A fantastic example of a PWA.",
+    "name": "Sign Talk",
+    "description": "A Video calling application with Sign Language Translation.",
     "start_url": "/",
     "display": "standalone",
     "background_color": "#ffffff",

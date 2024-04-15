@@ -4,10 +4,10 @@ self.addEventListener('install', (event) => {
             return cache.addAll([
                 '/',
                 '/index.html',
-                'CSS/style.css',
-                'CSS/animate.css',
+                '/CSS/style.css',
+                '/CSS/animate.css',
                 '/main.js',
-                'dist/build.js',
+                '/dist/build.js',
                 '/images/logo.png',
                 '/manifest.json',
                 '/package.json',
